@@ -1,3 +1,5 @@
+#conncet to your OMOP database, check valid schema in your DB ohdsi to conncet to
+#the script will return the needed data, to analysis in the corresponding python script, also provided by this repository
 WITH 
     OPS AS 
     (   SELECT 
